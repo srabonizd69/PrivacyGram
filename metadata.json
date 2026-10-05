@@ -1,0 +1,6 @@
+{
+  "name": "TeleMod Studio",
+  "description": "Interactive developer guide and architecture workbench for Telegram FOSS and TDLib privacy modifications including Ghost Mode, Hide Typing, and Anti-Delete.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
